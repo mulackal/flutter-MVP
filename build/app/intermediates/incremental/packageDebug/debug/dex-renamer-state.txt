@@ -1,0 +1,4 @@
+#Fri Apr 26 17:53:08 IST 2019
+base.0=/home/vipin/Documents/AM_Vipin/ADD/flutter_app_mvp/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
